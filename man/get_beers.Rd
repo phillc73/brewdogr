@@ -57,7 +57,7 @@ get_beers(
 \item{per_page}{Integer. Number of recipes to return from the query. Defaults to the maximum of 80.}
 }
 \value{
-Beer recpies to brew your own. Returns a dataframe. With some nested lists.
+Beer recipes to brew your own. Returns a dataframe. With some nested lists.
 }
 \description{
 \url{https://punkapi.com/documentation/v2}

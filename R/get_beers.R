@@ -36,7 +36,7 @@
 #'
 #' @param per_page Integer. Number of recipes to return from the query. Defaults to the maximum of 80.
 #'
-#' @return Beer recpies to brew your own. Returns a dataframe. With some nested lists.
+#' @return Beer recipes to brew your own. Returns a dataframe. With some nested lists.
 #'
 #' @export
 #'
