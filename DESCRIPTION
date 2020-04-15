@@ -1,4 +1,4 @@
-Package: BrewdogR
+Package: brewdogr
 Type: Package
 Title: R Wrapper For The Punk API - Brewdog's DIY Beer Recipe Library
 Version: 0.1.0
