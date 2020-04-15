@@ -1,0 +1,22 @@
+Package: BrewdogR
+Type: Package
+Title: R Wrapper For The Punk API - Brewdog's DIY Beer Recipe Library
+Version: 0.1.0
+date: 2020-04-15
+Authors@R: as.person("Phill Clarke <phill@starkingdom.co.uk> [aut, cre]")
+Maintainer: Phill Clarke <phill@starkingdom.co.uk>
+Description: A very simple R wrapper around a very simple API.
+    The API is called Punk API and is found at https://punkapi.com/. 
+    This is a collection of beer brewing recipes from the brewer Brewdog.
+    It is regularly published in a less programmatically queriable form as the DIY Dog at https://www.brewdog.com/uk/community/diy-dog.
+Depends:
+    R (>= 3.6.0)
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/phillc73/brewdogr
+BugReports: http://www.github.com/phillc73/brewdogr/issues
+Imports:
+    jsonlite (>= 1.6.1),
+    RCurl(>= 1.98-1.1)
+RoxygenNote: 7.0.2
