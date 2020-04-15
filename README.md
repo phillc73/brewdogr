@@ -22,7 +22,7 @@ jsonlite >= 1.6.1
 
 ## Usage
 
-The following call to the function `get_beer` returns all recipes where the expected ABV is equal to or greater than eight, it was first brewed by Brewdog after September 2013 and it uses the hop known as Fuggle.
+The following call to the function `get_beers` returns all recipes where the expected ABV is equal to or greater than eight, it was first brewed by Brewdog after September 2013 and it uses the hop known as Fuggle.
 
 ```r
 get_beers(abv_gt = 8,
